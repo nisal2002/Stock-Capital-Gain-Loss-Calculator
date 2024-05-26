@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 class Queue {
     QNode front, rear;
 
