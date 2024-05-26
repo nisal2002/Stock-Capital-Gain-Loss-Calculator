@@ -76,7 +76,7 @@ Total Capital Gain = $1000 + $120 - $180 = $940
 
 ## Author
 
-- [Nisal Gamage] - Initial work
+- [Author](NisalNPGamage) - Initial work
 
 ## License
 
